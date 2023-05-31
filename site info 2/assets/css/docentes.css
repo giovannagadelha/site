@@ -1,0 +1,29 @@
+.box-professor{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+        font-family:Arial, Helvetica, sans-serif;
+        min-height: 400px;
+        border-radius: 7%;
+        padding-top: 2rem;
+        padding-left: 1rem;
+        padding-right: 1rem;
+       
+}
+
+.box-professor:hover {
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.4);
+  }
+
+.docente {
+    border-radius: 5px;
+    height: 120px;
+    width: 120px;
+}
+
+.box-centralizada{
+	display: flex;
+	justify-content: center;
+}
+
+.wrapper.style4 {
+    background-color: #fff;
+}
